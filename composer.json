@@ -11,5 +11,14 @@
             "email": "eushakov@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "~8.1",
+        "ramsey/uuid": "^4.7"
+    },
+    "require-dev": {
+        "codeception/codeception": "^5.1",
+        "codeception/module-phpbrowser": "*",
+        "codeception/module-asserts": "*",
+        "phpstan/phpstan": "^1.11"
+    }
 }
