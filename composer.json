@@ -1,0 +1,15 @@
+{
+    "name": "erop/forms",
+    "autoload": {
+        "psr-4": {
+            "Erop\\Forms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Egor Ushakov",
+            "email": "eushakov@gmail.com"
+        }
+    ],
+    "require": {}
+}
